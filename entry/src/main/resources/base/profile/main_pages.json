@@ -1,0 +1,21 @@
+{
+  "src": [
+    "pages/Index",
+    "pages/goods_information/goods_information_0",
+    "pages/goods_information/goods_information_1",
+    "pages/goods_information/goods_information_2",
+    "pages/goods_information/goods_information_3",
+    "pages/goods_information/goods_information_4",
+    "pages/goods_information/goods_information_5",
+    "pages/article/patent_article_0",
+    "pages/article/patent_article_1",
+    "pages/article/patent_article_2",
+    "pages/article/patent_article_3",
+    "pages/article/patent_article_4",
+    "pages/article/patent_article_5",
+    "pages/article/patent_information",
+    "pages/helper",
+    "pages/about_us",
+    "pages/shopping_cart"
+  ]
+}
